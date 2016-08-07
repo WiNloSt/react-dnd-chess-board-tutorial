@@ -1,7 +1,11 @@
 import React from 'react'
 
 const Knight = () => (
-  <span>♘</span>
+  <span style={{
+    fontSize: '4rem'
+  }}>
+    ♘
+  </span>
 )
 
 export default Knight
